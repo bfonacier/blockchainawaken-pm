@@ -1,5 +1,4 @@
-# blockchainawaken-pm
-Blockchain awakens hackathon
+# Blockchain awakens hackathon
 
 Team 8
 
